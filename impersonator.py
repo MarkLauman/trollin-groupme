@@ -96,4 +96,5 @@ if access_token is not None:
     else:
         print "Please supply group id"
 else:
-    print "Please supply access token in token.txt"
+    print "Please supply access token in token.txt"    print "Please supply access token in token.txt"
+# what up
